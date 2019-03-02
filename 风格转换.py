@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-import torch
+import torch as t
 import torch.nn as nn
 from torch.autograd import Variable
 import torch.optim as optim
